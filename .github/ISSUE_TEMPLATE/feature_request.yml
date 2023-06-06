@@ -1,8 +1,9 @@
-
 name: Feature request
+description: Tell me your request <3
 about: Suggest an idea for this project
 title: '[Feature]: '
 labels: 'feature'
+body:
 - type: input
     id: feature
     attributes:
