@@ -23,7 +23,7 @@ body:
     id: bug-description
     attributes:
       label: Bug description
-      description: ""
+      description: "Also tell us, what did you expect to happen?"
     validations:
       required: true
   - type: textarea
