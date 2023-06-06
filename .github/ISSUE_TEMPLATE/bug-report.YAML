@@ -1,5 +1,5 @@
----
-title: ''
+
+title: '[Bug]: '
 labels: 'bug'
 assignees: ''
 name: Bug report
@@ -40,4 +40,3 @@ body:
       description: Add any other context about the problem here.
       render: shell
 
----
