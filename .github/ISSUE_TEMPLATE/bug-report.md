@@ -1,14 +1,9 @@
 ---
+title: ''
+labels: 'bug'
+assignees: ''
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
-name: Bug
-description: File a bug report
 body:
   - type: markdown
     attributes:
@@ -44,3 +39,5 @@ body:
       label: Relevant log output
       description: Add any other context about the problem here.
       render: shell
+
+---
