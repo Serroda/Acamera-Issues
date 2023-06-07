@@ -12,7 +12,7 @@ This repository serves as a tracking of the application’s errors.
 
 Tested in https://linux-sunxi.org/F60_Action_Camera
 
-Should work with F60 derivatives
+Acamera is compatible with most action cameras with the Allwinner DSP chip, being these cameras: F60 Action, WASPcam ROX 9940 HD, Campark ACT76 and other derivatives.
 
 ## Create issue
 
